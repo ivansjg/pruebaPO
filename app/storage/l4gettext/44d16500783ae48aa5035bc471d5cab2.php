@@ -1,0 +1,1 @@
+<?php echo _("Probando Traducción a ver"); ?>
